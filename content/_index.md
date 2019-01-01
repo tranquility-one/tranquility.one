@@ -1,5 +1,4 @@
 +++
-title = "Home page"
+title = "hugo-bare"
 +++
-
-This page has **bold** and *italics* formatting.
+This page is set to auto-update for development.

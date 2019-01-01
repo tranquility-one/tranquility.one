@@ -1,2 +1,10 @@
 baseURL = "http://example.org/"
+disableHugoGeneratorInject = true
 theme = "bare"
+
+[params]
+	title = "hugo-bare"
+	author = "nstickney@pm.me"
+	color = "#eeeeee"
+	description = "Barebones Hugo site"
+	keywords = "default, hugo, minimal, standard, standards, website"
