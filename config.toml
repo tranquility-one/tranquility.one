@@ -1,9 +1,9 @@
+title = "hugo-bare"
 baseURL = "http://example.org/"
 disableHugoGeneratorInject = true
 theme = "bare"
 
 [params]
-	title = "hugo-bare"
 	author = "nstickney@pm.me"
 	color = "#eeeeee"
 	description = "Barebones Hugo site"

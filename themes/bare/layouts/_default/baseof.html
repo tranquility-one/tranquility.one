@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+		{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		{{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+
+		<base href="{{ .Permalink }}">
+		<link rel="canonical" href="{{ .Permalink }}">
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+		<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+	</head>
+
+	<body>
+		{{ block "header" . }}
+			<header>This is a header.</header>
+		{{ end }}
+		{{ block "content" . }}{{ end }}
+		{{ block "footer" . }}
+			<footer>This is a footer.</footer>
+		{{ end }}
+	</body>
+</html>

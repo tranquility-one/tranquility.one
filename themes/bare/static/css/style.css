@@ -1,0 +1,42 @@
+:root {
+	--bg: #eee;
+	--fg: #444;
+	--theme-bg: #fdd;
+	--footer-height: 2rem;
+}
+
+html {
+	background: var(--theme-bg);
+	height: 100%;
+}
+
+body {
+	background: var(--bg);
+	color: var(--fg);
+	margin: 0 auto;
+	max-width: 1024px;
+	min-height: calc(100% - var(--footer-height));
+	padding-bottom: var(--footer-height);
+	position: relative;
+	width: 99%;
+}
+
+header, footer {
+	align-items: center;
+	background: var(--fg);
+	color: var(--bg);
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+header {
+	font-size: 2rem;
+	height: 4rem;
+}
+
+footer {
+	bottom: 0;
+	height: var(--footer-height);
+	position: absolute;
+}
