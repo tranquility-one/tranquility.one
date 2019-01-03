@@ -4,10 +4,10 @@ title = "Tranquility"
 # Welcome!
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
-Currently we run a single survival world at &ldquo;hard&rdquo; difficulty.
+Currently we run a single survival world at "hard" difficulty.
 The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) version `1.13.2`.
 We started this server after a favorite server, **Serenity-MC.org**, stopped operating.
-Tranquility's general feel is based on Serenity, as is our [Code of Conduct](#code_of_conduct).
+Tranquility's general feel is based on Serenity, as is our [Code of Conduct](#code-of-conduct).
 **Hal**, if you're out there, we'd love to have you play here!
 
 Tranquility is a vanilla-like server.
@@ -23,7 +23,8 @@ Our server uses the following plugins:
 ## Code of Conduct
 
 > Be excellent to each other, and party on!
-> <div class="caption">Bill and Ted's Excellent Adventure</div>
+
+> Bill and Ted's Excellent Adventure
 
 Treat others as you would prefer to be treated.
 We don't have time for hateful speech; not sorry.
@@ -37,7 +38,7 @@ This server is for everyone's enjoyment.
 
 There is no automated system for whitelisting.
 Contact StickFig in the [Discord](discord) for more information.
-Please read the [Code of Conduct](#code_of_conduct) before you apply.
+Please read the [Code of Conduct](#code-of-conduct) before you apply.
 
 ## Land Claims
 
@@ -47,8 +48,7 @@ Additional claims can be made using a golden shovel.
 Each player has a limit for how much area they can claim, which increases by 100 square blocks for every hour the player spends on the server.
 Within a claim, explosions will not damage blocks, and endermen do not pick blocks up.
 The owner of a claim can set permissions for other players to merely access (doors, buttons, and switches), open containers, or even build within their claim.
-
-It is also possible to create multiple subclaims within a larger claim &mdash; to [create a multi-player town](https://www.youtube.com/watch?v=I3FLCFam5LI), for instance.
+It is also possible to create multiple subclaims within a larger claim --- to [create a multi-player town](https://www.youtube.com/watch?v=I3FLCFam5LI), for instance.
 
 ### Spawn Area
 
