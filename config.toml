@@ -1,10 +1,11 @@
-title = "hugo-bare"
-baseURL = "http://example.org/"
+title = "Tranquility"
+baseURL = "https://tranquility.one"
+
 disableHugoGeneratorInject = true
-theme = "bare"
+theme = "stma"
 
 [params]
-	author = "nstickney@pm.me"
+	author = "StickFig"
 	color = "#eeeeee"
-	description = "Barebones Hugo site"
-	keywords = "default, hugo, minimal, standard, standards, website"
+	description = "Links and information regarding the Tranquility server"
+	keywords = "Tranquility, Minecraft"

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html
+	lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"
+ {{ with .Site.Params.Background }}style="{{ . }}"{{ end }}
+>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+		<meta name="author" content="{{ block "author" .}}{{ .Site.Params.author }}{{ end }}">
+		<meta name="description" content="{{ block "description" .}}{{ .Site.Params.description }}{{ end }}">
+		<meta name="keywords" content="{{ block "keywords" .}}{{ .Site.Params.keywords }}{{ end }}">
+
+		<base href="{{ .Permalink }}">
+		<link rel="canonical" href="{{ .Permalink }}">
+
+		<link rel="stylesheet" href="{{ "css/theme.css" | relURL }}">
+	</head>
+
+	<body>
+		<div class="header">
+			{{ block "header" . }} This is a header. {{ end }}
+		</div>
+		<div class="content">
+			{{ block "content" . }} This is some content. {{ end }}
+		</div>
+		<div class="footer">
+			{{ block "footer" . }} This is a footer. {{ end }}
+		</div>
+	</body>
+</html>
