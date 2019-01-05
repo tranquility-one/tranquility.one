@@ -1,0 +1,3 @@
+[submodule "themes/hugo-stma"]
+	path = themes/hugo-stma
+	url = git@gitlab.com:nstickney/hugo-stma

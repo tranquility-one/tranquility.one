@@ -1,5 +1,5 @@
-# Hugo Bare
-> Barebones Hugo website
+# Tranquility.one Minecraft Server
+> The Tranquility.one website
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme "RichardLitt/standard-readme")
 
@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Background
-This is a project to learn Hugo by building a barebones website without any generators. It will include a custom theme. Initially the project will follow [A Gentle Introduction to Creating a Minimal Hugo Site](https://arunrocks.com/minimal-hugo-site-tutorial/), though it will probably progress from there.
+The [Tranquility](https://tranquility.one) Minecraft server was built after the [Serenity](https://serenity-mc.org) server was closed. This repository holds the server website, a simple Hugo build.
 
 ## Install
 Clone this repository, and enter the top-level directory. `hugo server` will run the server; `hugo` will build the website for deployment.

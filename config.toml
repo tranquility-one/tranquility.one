@@ -2,11 +2,11 @@ title = "Tranquility"
 baseURL = "https://tranquility.one"
 
 disableHugoGeneratorInject = true
-theme = "stma"
+theme = "hugo-stma"
 
 [params]
 	author = "StickFig"
-	color = "#eeeeee"
+	custom_css = ["style.css"]
 	copyright = "2019"
 	description = "Links and information regarding the Tranquility server"
 	keywords = "Tranquility, Minecraft"
