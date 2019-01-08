@@ -6,6 +6,7 @@ theme = "hugo-stma"
 
 [params]
 	author = "StickFig"
+	color = "#07076f"
 	custom_css = ["style.css"]
 	copyright = "2019"
 	description = "Links and information regarding the Tranquility server"
