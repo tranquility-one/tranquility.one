@@ -12,13 +12,14 @@ Tranquility's general feel is based on Serenity, as is our [Code of Conduct](#co
 
 Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, prevent griefing, and remove some minor annoyances from the vanilla experience.
-Our server uses the following plugins:
+Our server uses the following plugins and datapacks:
 
 * [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 * [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 * [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
 * [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention)
 * [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/)
+* [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
 
 ## Code of Conduct
 
