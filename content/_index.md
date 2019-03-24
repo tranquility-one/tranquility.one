@@ -14,10 +14,8 @@ Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, prevent griefing, and remove some minor annoyances from the vanilla experience.
 Our server uses the following plugins and datapacks:
 
-* [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 * [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
-* [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
-* [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention)
+* [Dynmap](https://www.spigotmc.org/resources/dynmap.274/) with [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention)
 * [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/)
 * [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
 
@@ -53,9 +51,9 @@ It is also possible to create multiple subclaims within a larger claim --- to [c
 
 ### Spawn Area
 
-The server spawn point is set at `(0, 0)`.
+![Spawn Hall](images/spawnhall.png)
 The area from `(-150, -150)` to `(150, 150)` is protected by an administrative claim; all players may walk freely through it, open doors, push buttons, and open containers, but no one may build there without specific permission.
 If you want to build something at spawn, contact StickFig to set up a subclaim that you will have control over.
-
-The spawn area is currently completely empty; as players begin to spend more time on the server, a central spawn hall will be built, along with other improvements.
-A Nether hub is planned at the Nether spawn as well.
+The server's City Hall is located at `53, 72, 9`, which is where new players spawn on first join.
+A portal to the Nether Hub is at `26, 73, 9`; the Hub itself is at `N -10, 99, 0`.
+[DaleHousden](https://namemc.com/profile/DaleHousden.1) is responsible for both; he's done a fantastic job!
