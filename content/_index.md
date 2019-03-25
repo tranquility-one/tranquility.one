@@ -51,7 +51,7 @@ It is also possible to create multiple subclaims within a larger claim --- to [c
 
 ### Spawn Area
 
-![Spawn Hall](images/spawnhall.png)
+<figure><a href="/images/spawnhall.png"><img class="left" src="images/spawnhall.png" alt="Spawn Hall" /></a></figure>
 The area from `(-150, -150)` to `(150, 150)` is protected by an administrative claim; all players may walk freely through it, open doors, push buttons, and open containers, but no one may build there without specific permission.
 If you want to build something at spawn, contact StickFig to set up a subclaim that you will have control over.
 The server's City Hall is located at `53, 72, 9`, which is where new players spawn on first join.
