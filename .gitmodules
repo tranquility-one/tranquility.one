@@ -1,3 +1,4 @@
-[submodule "themes/hugo-stma"]
+[submodule "hugo-stma"]
 	path = themes/hugo-stma
-	url = git@gitlab.com:nstickney/hugo-stma
+	url = git@github.com:stma-is/hugo-stma
+	branch = master
