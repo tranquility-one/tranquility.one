@@ -9,6 +9,8 @@ title = "Tranquility"
 >
 > The old world (13.2) has been archived, and a whole new world (14.3) has been started.
 > I look forward to seeing everyone's new builds!
+>
+> StickFig
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 Currently we run a single survival world at "hard" difficulty.
