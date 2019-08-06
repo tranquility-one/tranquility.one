@@ -3,21 +3,11 @@ title = "Tranquility"
 +++
 # Welcome!
 
-> ## Special Announcement:
->
-> Tranquility.one has entered version 2.0!
->
-> The old world (13.2) has been archived, and a whole new world (14.3) has been started.
-> I look forward to seeing everyone's new builds!
->
-> StickFig
-
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 Currently we run a single survival world at "hard" difficulty.
-The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) version `1.14.3`.
+The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) version `1.14.4`.
 We started this server after a favorite server, **Serenity-MC.org**, stopped operating.
 Tranquility's general feel is based on Serenity, as is our [Code of Conduct](#code-of-conduct).
-**Hal**, if you're out there, we'd love to have you play here!
 
 Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, prevent griefing, and remove some minor annoyances from the vanilla experience.
@@ -40,6 +30,13 @@ Don't needlessly destroy the environment, especially in common areas (to include
 
 Have fun!
 This server is for everyone's enjoyment.
+
+> I strive to treat all Tranquility players with love, following the example of Jesus Christ.
+> While worshipping God as I do is never a requirement for playing on Tranquility, we do require respect for everyone &mdash; all are made in the image of God.
+> If you're interested in my faith, please ask.
+> I would love to share with you!
+>
+> &mdash;StickFig
 
 ### Whitelisting
 
