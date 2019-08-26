@@ -13,9 +13,13 @@ Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, prevent griefing, and remove some minor annoyances from the vanilla experience.
 Our server uses the following plugins and datapacks:
 
+* [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/)
+* [Durability Ping](https://vanillatweaks.net/picker/datapacks/)
 * [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 * [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
 * [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
+* [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
+* [Sethome](https://vanillatweaks.net/picker/datapacks/)
 
 ## Code of Conduct
 
