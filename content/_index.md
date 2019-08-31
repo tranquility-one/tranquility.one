@@ -16,7 +16,6 @@ Our server uses the following plugins and datapacks:
 * [AFK Display](https://vanillatweaks.net/picker/datapacks/)
 * [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/)
 * [Customizable Armor Stands](https://vanillatweaks.net/picker/datapacks/)
-* [Durability Ping](https://vanillatweaks.net/picker/datapacks/)
 * [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
 * [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
 * [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention)
