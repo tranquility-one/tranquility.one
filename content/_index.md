@@ -22,6 +22,7 @@ Our server uses the following plugins and datapacks:
 * [GriefPrevention](https://github.com/TechFortress/GriefPrevention/)
 * [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
 * [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
+* SereneMail (custom mailboxes and delivery from **Serenity-MC.org**)
 
 ## Code of Conduct
 
