@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, you can obtain one at http://mozilla.org/MPL/2.0/.
+
+# Bash strict mode (https://github.com/alphabetum/bash-boilerplate)
+set -eEuo pipefail
+trap 'echo "Aborting (errexit line $LINENO). Exit code: $?" >&2' ERR
+
+usage() {
+	printf 'Usage: %s filename\n' "$(basename "$0")" >&2
+	printf ' -h --help : display this message\n' >&2
+	exit
+}
+
+main() {
+	local _cmd=(hugo -wD server)
+	if [ -x "$(command -v tmux)" ]; then
+		if [ -n "${TMUX-}" ]; then
+			tmux new -d "${_cmd[@]}"
+		else
+			tmux new "${_cmd[@]}"
+		fi
+	else
+		"${_cmd[@]}"
+	fi
+	[ -x "$(command -v xdg-open)" ] && xdg-open 'http://localhost:1313'
+}
+
+_pos_args=()
+while [ "$#" -gt 0 ]; do
+	case "$1" in
+		'--help'|'-h') usage;;
+		*) _pos_args+=("$1"); shift;;
+	esac
+done
+main "${_pos_args[@]}"
