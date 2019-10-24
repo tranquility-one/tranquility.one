@@ -1,7 +1,8 @@
 # Tranquility.one Minecraft Server
 > The Tranquility.one website
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme "RichardLitt/standard-readme")
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme "RichardLitt/standard-readme")
 
 ## Table of Contents
 - [Background](#background)
