@@ -1,15 +1,42 @@
-title = "Tranquility"
+# Used in theme
+author = 'Stick'
 baseURL = "https://tranquility.one"
+copyright = '&copy;&nbsp;2019&nbsp;Stick'
+keywords = "Tranquility, Minecraft"
+languageCode = 'en-us'
+theme = 'hugo-base'
+title = 'Tranquility'
 
-disableHugoGeneratorInject = true
-theme = "hugo-stma"
+# Syntax highlighting
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsOptions = 'linenos=table'
+
+# Other options
+enableGitInfo = true
+pluralizeListTitles = false
+rssLimit = 32
+
+[frontmatter]
+	date = [':filename', ':default']
+	publishDate = [':filename', ':default']
+
+[menu]
+	[[menu.main]]
+		identifier = 'discord'
+		name= '&#xf392; Discord'
+		url = '/discord'
+	[[menu.main]]
+		identifier = 'map'
+		name= '&#xf279 Map'
+		url = '/map'
 
 [params]
-	author = "stick at stma dot is"
-	color = "#07076f"
-	custom_css = ["style.css"]
+	authorMail = 'admin@tranquility.one'
+	backgroundImage = 'images/bg.jpg'
+	css = 'css/style.css'
 	description = "Links and information regarding the Tranquility server"
-	keywords = "Tranquility, Minecraft"
-	logo = "logo.png"
-	repo_addr = "https://github.com/tranquility-one/tranquility.one"
-	repo_text = "GitHub"
+	iconPNG = 'images/favicon.png'
+	iconSVG = 'images/favicon.svg'
+	logo = "images/logo.png"
+	repo = "https://github.com/tranquility-one/tranquility.one"

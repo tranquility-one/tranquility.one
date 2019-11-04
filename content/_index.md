@@ -1,12 +1,12 @@
 +++
 title = "Tranquility"
 +++
-# Welcome!
+### Welcome!
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 Currently we run a single survival world at "hard" difficulty.
-The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) version `1.14.4`.
-We started this server after a favorite server, **Serenity-MC.org**, stopped operating.
+The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.14.4.
+We started Tranquility after a favorite server, Serenity-MC.org, stopped operating.
 Tranquility's general feel is based on Serenity, as is our [Code of Conduct](#code-of-conduct).
 
 Tranquility is a vanilla-like server.
@@ -22,13 +22,13 @@ Our server uses the following plugins and datapacks:
 * [GriefPrevention](https://github.com/TechFortress/GriefPrevention/)
 * [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
 * [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
-* SereneMail (custom mailboxes and delivery from **Serenity-MC.org**)
+* SereneMail (custom mailboxes and delivery service from Serenity-MC.org)
 
-## Code of Conduct
+### Code of Conduct
 
 > Be excellent to each other, and party on!
 
-> Bill and Ted's Excellent Adventure
+> <cite>Bill and Ted's Excellent Adventure</cite>
 
 Treat others as you would prefer to be treated.
 We don't have time for hateful speech; not sorry.
@@ -43,17 +43,17 @@ This server is for everyone's enjoyment.
 > If you're interested in my faith, please ask.
 > I would love to share with you!
 >
-> &mdash;StickFig
+> <cite>StickFig</cite>
 
-### Whitelisting
+#### Whitelisting
 
 There is no automated system for whitelisting.
 Contact StickFig in the [Discord](discord) for more information.
 Please read the [Code of Conduct](#code-of-conduct) before you apply.
 
-## Notable Builds
+### Notable Builds
 
 Our current world is new enough that there just aren't that many builds out there.
-However, you can check out the skeleton XP farm by heading down the tunnel at `(824, -92)`.
-DaleHouseden has started a cathedral (his Serenity Cathedral was legendary) around `(935, 522)`.
-DoctorLokiGrey and peanuthead159 have a large walled village near `(-465, -1415)`.
+However, you can check out the skeleton XP farm by heading down the tunnel at (824, -92).
+DaleHouseden has started a cathedral (his Serenity Cathedral was legendary) around (935, 522).
+DoctorLokiGrey and peanuthead159 have a large walled village near (-465, -1415).

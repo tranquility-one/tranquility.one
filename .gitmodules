@@ -1,4 +1,3 @@
-[submodule "hugo-stma"]
-	path = themes/hugo-stma
-	url = https://github.com/stma-is/hugo-stma
-	branch = master
+[submodule "themes/hugo-base"]
+	path = themes/hugo-base
+	url = https://git.sr.ht/~stick/hugo-base
