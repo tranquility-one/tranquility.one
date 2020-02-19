@@ -28,7 +28,7 @@ Our server uses the following plugins and data packs:
 
 > Be excellent to each other, and party on!
 
-> <cite>Bill and Ted's Excellent Adventure</cite>
+> *Bill and Ted's Excellent Adventure*
 
 Treat others as you would prefer to be treated.
 We don't have time for hateful speech; not sorry.
@@ -44,7 +44,7 @@ This server is for everyone's enjoyment.
 > If you're interested in my faith, please ask.
 > I would love to share with you!
 >
-> <cite>StickFig</cite>
+> *StickFig*
 
 #### Whitelisting
 
