@@ -1,6 +1,7 @@
 +++
 title = "Tranquility"
 +++
+
 ### Welcome
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
@@ -13,22 +14,22 @@ Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, prevent griefing, and remove some minor annoyances from the vanilla experience.
 Our server uses the following plugins and data packs:
 
-* [AFK Display](https://vanillatweaks.net/picker/datapacks/)
-* [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/)
-* [Customizable Armor Stands](https://vanillatweaks.net/picker/datapacks/)
-* [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
-* [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
-* [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention)
-* [GriefPrevention](https://github.com/TechFortress/GriefPrevention/)
-* [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
-* [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
-* SereneMail (custom mailboxes and delivery service from Serenity-MC.org)
+- [AFK Display](https://vanillatweaks.net/picker/datapacks/)
+- [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/)
+- [Customizable Armor Stands](https://vanillatweaks.net/picker/datapacks/)
+- [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)
+- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)
+- [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention)
+- [GriefPrevention](https://github.com/TechFortress/GriefPrevention/)
+- [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep)
+- [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
+- SereneMail (custom mailboxes and delivery service from Serenity-MC.org)
 
 ### Code of Conduct
 
 > Be excellent to each other, and party on!
-
-> *Bill and Ted's Excellent Adventure*
+>
+> _Bill and Ted's Excellent Adventure_
 
 Treat others as you would prefer to be treated.
 We don't have time for hateful speech; not sorry.
@@ -44,7 +45,7 @@ This server is for everyone's enjoyment.
 > If you're interested in my faith, please ask.
 > I would love to share with you!
 >
-> *StickFig*
+> _StickFig_
 
 #### Whitelisting
 
@@ -55,7 +56,6 @@ Please read the [Code of Conduct](#code-of-conduct) before you apply.
 ### Notable Builds
 
 Our current world is new enough that there aren't many builds out there.
-There is a decent trading village at (750, -25).
-You can check out the skeleton XP farm by heading down the tunnel at (824, -92).
-DaleHouseden has started a cathedral (his Serenity Cathedral was legendary) around (935, 522).
+There is a trading village at (750, -25), and you can check out the skeleton XP farm by heading down the tunnel at (824, -92).
+DaleHouseden has started a cathedral near (935, 522) &mdash; his Serenity Cathedral was legendary.
 DoctorLokiGrey and peanuthead159 have a large walled village near (-465, -1415).
