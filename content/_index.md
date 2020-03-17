@@ -6,7 +6,7 @@ title = "Tranquility"
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 We run a single survival world at "hard" difficulty.
-The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.15.1.
+The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.15.2.
 We started Tranquility after a favorite server, Serenity-MC.org, stopped operating.
 We base Tranquility's general feel and our [Code of Conduct](#code-of-conduct) on the Serenity server.
 
