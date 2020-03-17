@@ -1,7 +1,7 @@
 # Used in theme
 author = 'Stick'
 baseURL = "https://tranquility.one"
-copyright = '&copy;&nbsp;2019&nbsp;Stick'
+copyright = '&copy;&nbsp;2019-2020&nbsp;Stick'
 keywords = "Tranquility, Minecraft"
 languageCode = 'en-us'
 theme = 'hugo-base'
