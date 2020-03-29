@@ -1,7 +1,7 @@
 # Used in theme
 author = 'Stick'
 baseURL = "https://tranquility.one"
-copyright = '&copy;&nbsp;2019-2020&nbsp;Stick'
+copyright = '&copy;&nbsp;2019&mdash;2020&nbsp;Stick'
 keywords = "Tranquility, Minecraft"
 languageCode = 'en-us'
 theme = 'hugo-base'
@@ -21,6 +21,9 @@ rssLimit = 32
 	date = [':filename', ':default']
 	publishDate = [':filename', ':default']
 
+[markup.goldmark.renderer]
+	unsafe = true
+
 [menu]
 	[[menu.main]]
 		identifier = 'discord'
@@ -35,7 +38,7 @@ rssLimit = 32
 	authorMail = 'admin@tranquility.one'
 	backgroundImage = 'images/bg.jpg'
 	css = 'css/style.css'
-	description = "Links and information regarding the Tranquility server"
+	description = "The Tranquility Minecraft server"
 	iconPNG = 'images/logo.png'
 	iconSVG = 'images/favicon.svg'
 	logo = "images/logo.png"
