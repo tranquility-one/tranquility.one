@@ -17,7 +17,7 @@ Our server uses the following plugins and data packs:
 
 - [AFK Display](https://vanillatweaks.net/picker/datapacks/): turns player names gray when they are idle
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): shows the player their coordinates and the current time
-- [Customizable Armor Stands](https://vanillatweaks.net/picker/datapacks/): allows positioning of armor stands
+- [Armour Statues](https://vanillatweaks.net/picker/datapacks/): allows positioning of armor stands
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): check out our real-time updating [map](https://tranquility.one/map)!
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
