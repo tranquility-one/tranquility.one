@@ -1,6 +1,6 @@
-+++
-title = "Tranquility.One"
-+++
+---
+title: "Tranquility.One"
+---
 
 # Welcome!
 
@@ -15,7 +15,7 @@ Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, prevent griefing, and remove some minor annoyances from the vanilla experience.
 Our server uses the following plugins and data packs:
 
-- [AFK Display](https://vanillatweaks.net/picker/datapacks/): turns player names gray when they are afk
+- [AFK Display](https://vanillatweaks.net/picker/datapacks/): turns player names gray when they are idle
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): shows the player their coordinates and the current time
 - [Customizable Armor Stands](https://vanillatweaks.net/picker/datapacks/): allows positioning of armor stands
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
@@ -48,7 +48,7 @@ Have fun!
 This server is for everyone's enjoyment.
 
 > I strive to treat all Tranquility players with love, following the example of Jesus Christ.
-> While worshipping God as I do is never required on Tranquility, we do require respect for everyone &mdash; God made us all in His image.
+> While worshipping God as I do is never required on Tranquility, we do require respect for everyone --- God made us all in His image.
 > If you're interested in my faith, please ask.
 > I would love to share with you!
 >
@@ -64,5 +64,5 @@ Please read the [Code of Conduct](#code-of-conduct) before you apply.
 
 Our current world is new enough that there aren't many builds out there.
 There is a trading village at (750, -25), and you can check out the skeleton and zombie farms by heading down the tunnel at (805, -31).
-DaleHouseden has started a cathedral near (935, 522) &mdash; his Serenity Cathedral was legendary.
+DaleHouseden has started a cathedral near (935, 522) --- his Serenity Cathedral was legendary.
 DoctorLokiGrey and peanuthead159 have a large walled village near (-465, -1415).
