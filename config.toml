@@ -1,21 +1,19 @@
 # Used in theme
-author = 'Stick'
 baseURL = "https://tranquility.one"
-copyright = '&copy;&nbsp;2019&mdash;2020&nbsp;Stick'
+copyright = "2019-2020"
 keywords = "Tranquility, Minecraft"
 languageCode = 'en-us'
 theme = 'hugo-base'
 title = 'Tranquility'
 
-# Syntax highlighting
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
-pygmentsOptions = 'linenos=table'
-
 # Other options
 enableGitInfo = true
 pluralizeListTitles = false
 rssLimit = 32
+
+[author]
+	name = 'StickFig'
+	email = 'admin@tranquility.one'
 
 [frontmatter]
 	date = [':filename', ':default']
