@@ -1,6 +1,6 @@
 # Used in theme
 baseURL = "https://tranquility.one"
-copyright = "2019-2020"
+copyright = "2019–2020"
 keywords = "Tranquility, Minecraft"
 languageCode = 'en-us'
 theme = 'hugo-base'
