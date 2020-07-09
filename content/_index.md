@@ -6,7 +6,7 @@ title: "Tranquility.One"
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 We run a single survival world at "hard" difficulty.
-The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.15.2.
+The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.16.1.
 We started Tranquility after a favorite server, Serenity-MC.org, stopped operating.
 We base Tranquility's general feel and our [Code of Conduct](#code-of-conduct) on the Serenity server.
 "Tranquility" made a great name, because it has the same meaning as "Serenity", because "T" comes right after "S" alphabetically, and because [Tranquility Base](https://en.wikipedia.org/wiki/Tranquility_Base) is the first place humans landed when we left earth --- Tranquility is the first place some Serenity players landed when we left that server.
@@ -19,10 +19,9 @@ Our server uses the following plugins and data packs:
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): shows the player their coordinates and the current time
 - [Armour Statues](https://vanillatweaks.net/picker/datapacks/): allows positioning of armor stands
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
-- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): check out our real-time updating [map](https://tranquility.one/map)!
+- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): unfortunately our [map](https://tranquility.one/map) is currently bugged
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
 - [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention): our map shows claimed areas
-- [Multiplayer Sleep](https://github.com/Plagiatus/datapacks/tree/master/multiplayer_sleep): only 10% of the online players need to be in bed to cause dawn
 - [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
   - Pillager patrols are disabled
   - Pillagers still spawn naturally (at night and at their outpost)
@@ -31,6 +30,9 @@ Our server uses the following plugins and data packs:
   - Create a mailbox by placing a chest on a fencepost
   - Put items in it and type `/mailto <player_name>` to send the items to them
   - Hearts above your mailbox mean _you've got mail!_
+- [Sleep-Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-16-1-configurable-messages-and-percentage.60623/): Only half the players need to sleep to skip the night
+
+Additionally, we highly recommend that players use the [Optifine](https://optifine.net/) client mod for best performance.
 
 # Code of Conduct
 
