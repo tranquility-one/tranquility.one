@@ -23,7 +23,7 @@ Our server uses the following plugins and data packs:
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): unfortunately our [map](https://tranquility.one/map) is currently bugged
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
-- [Dynmap-GriefPrevention](https://github.com/webbukkit/Dynmap-GriefPrevention): our map shows claimed areas
+- [GriefPreventionDynmap](https://bugs.mojang.com/browse/MC-191388): our map shows claimed areas
 - [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
   - Pillager patrols are disabled
   - Pillagers still spawn naturally (at night and at their outpost)
