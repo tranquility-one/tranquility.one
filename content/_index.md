@@ -4,6 +4,8 @@ title: "Tranquility.One"
 
 # Welcome!
 
+> NOTE: We are currently struggling with lag from bug [MC-191388](https://bugs.mojang.com/browse/MC-191388).
+
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 We run a single survival world at "hard" difficulty.
 The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.16.1.
