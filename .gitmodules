@@ -1,3 +1,3 @@
-[submodule "themes/hugo-base"]
-	path = themes/hugo-base
-	url = https://git.sr.ht/~stick/hugo-base
+[submodule "themes/hmvt"]
+	path = themes/hmvt
+	url = git@git.sr.ht:~stick/hmvt

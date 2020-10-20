@@ -1,20 +1,15 @@
----
-title: "Tranquility.One"
----
-
 # Welcome!
-
-> NOTE: We are currently struggling with lag from bug [MC-191388](https://bugs.mojang.com/browse/MC-191388).
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 We run a single survival world at "hard" difficulty.
-The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.16.1.
+The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.16.3.
 We started Tranquility after a favorite server, Serenity-MC.org, stopped operating.
 We base Tranquility's general feel and our [Code of Conduct](#code-of-conduct) on the Serenity server.
-"Tranquility" made a great name, because it has the same meaning as "Serenity", because "T" comes right after "S" alphabetically, and because [Tranquility Base](https://en.wikipedia.org/wiki/Tranquility_Base) is the first place humans landed when we left earth --- Tranquility is the first place some Serenity players landed when we left that server.
+"Tranquility" made a great name.
+It has the same meaning as "Serenity", "T" comes right after "S" alphabetically, and [Tranquility Base](https://en.wikipedia.org/wiki/Tranquility_Base) is the first place humans landed when we left earth --- Tranquility is the first place some Serenity players landed when we left that server.
 
 Tranquility is a vanilla-like server.
-We use plugins to enhance the community aspects of the game, prevent griefing, and remove some minor annoyances from the vanilla experience.
+We use plugins to enhance the community aspects of the game, reduce griefing, and remove some minor annoyances from the vanilla experience.
 Our server uses the following plugins and data packs:
 
 - [AFK Display](https://vanillatweaks.net/picker/datapacks/): turns player names gray when they are idle
