@@ -1,7 +1,7 @@
 # Tranquility.one Minecraft Server
 > The Tranquility.one website
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![license: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-blue)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme "RichardLitt/standard-readme")
 
 ## Table of Contents
@@ -28,4 +28,6 @@ For deployment, use `hugo`, then copy the contents of the `public` folder to you
 I welcome [issues](docs/issue_template.md "Issue template"), but I prefer [pull requests](dosc/pull_request_template.md "Pull request template")! See the [contribution guidelines](docs/contributing.md "Contributing") for more information.
 
 ## License
-Copyright ©2019 nstickney. This repository is released under the [MIT](LICENSE) license.
+
+©2019 [StickFig](admin@tranquility.one).
+Where not otherwise specified, this repository is licensed under the [CC BY-NC-SA 4.0](LICENSE) license.
