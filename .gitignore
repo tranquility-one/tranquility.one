@@ -10,6 +10,7 @@
 /public/
 /resources/_gen/
 /dev/
+.hugo_build.lock
 
 # executable may be added to repository
 hugo.exe
