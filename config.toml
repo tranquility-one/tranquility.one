@@ -24,6 +24,10 @@ rssLimit = 32
 		name= 'Discord'
 		url = '/discord'
 	[[menu.main]]
+		identifier = 'model'
+		name= '3D World'
+		url = '/3d'
+	[[menu.main]]
 		identifier = 'map'
 		name= 'Map'
 		url = '/map'

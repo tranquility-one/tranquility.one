@@ -4,7 +4,7 @@
 
 This is a public, [whitelisted](#whitelisting) Minecraft server with an emphasis on community in a vanilla Minecraft setting.
 We run a single survival world at "hard" difficulty.
-The server is running Minecraft ([Paper](https://github.com/PaperMC/Paper)) 1.18.1.
+The server is running Minecraft ([Paper](https://papermc.io)) 1.18.1.
 We started Tranquility after a favorite server, Serenity-MC.org, stopped operating.
 We base Tranquility's general feel and our [Code of Conduct](#code-of-conduct) on the Serenity server.
 "Tranquility" made a great name.
@@ -14,11 +14,13 @@ Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, reduce griefing, and remove some minor annoyances from the vanilla experience.
 Our server uses the following plugins and data packs:
 
-- [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): shows the player their coordinates and the current time
+- [Bluemap](https://bluemap.bluecolored.de/) gives us a [3D model](https://tranquility.one/3d) of our world, right in the browser!
+  It shows claimed areas using [BlueBridge](https://github.com/Mark-225/BlueBridge).
+- [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): type `/trigger ch_toggle` to turn on a heads-up display of your coordinates and the current time
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
-- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): check out the [world map](https://tranquility.one/map)!
+  We have channels for online, offline, and off-topic discussion, plus one for screenshots.
+- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): check out the [world map](https://tranquility.one/map) (which shows claimed areas using [GriefPreventionDynmap](https://github.com/leahshields95/GriefPreventionDynmap))
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
-- [GriefPreventionDynmap](https://github.com/leahshields95/GriefPreventionDynmap): our map shows claimed areas
 - [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
   - Pillager patrols are disabled
   - Pillagers still spawn naturally (at night and at their outpost)
@@ -28,7 +30,6 @@ Our server uses the following plugins and data packs:
   - Put items in it and type `/mailto <player_name>` to send the items to them
   - Hearts above your mailbox mean _you've got mail!_
 - [Sleep-Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-16-1-configurable-messages-and-percentage.60623/): only half the players need to sleep to skip the night
-- [Thunder Shrine](https://vanillatweaks.net/picker/datapacks/): create a thunderstorm by sacrificing a nether star
 
 Additionally, we highly recommend that players use the [Optifine](https://optifine.net/) client mod for best performance.
 
