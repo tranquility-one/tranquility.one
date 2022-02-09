@@ -14,6 +14,7 @@ Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, reduce griefing, and remove some minor annoyances from the vanilla experience.
 Our server uses the following plugins and data packs:
 
+- [Armor Statues](https://vanillatweaks.net/picker/datapacks/): [modify the settings and pose of armor stands](https://hermitcraft.fandom.com/wiki/Armor_Statues_Datapack).
 - [Bluemap](https://bluemap.bluecolored.de/) gives us a [3D model](https://tranquility.one/3d) of our world, right in the browser!
   It shows claimed areas using [BlueBridge](https://github.com/Mark-225/BlueBridge).
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): type `/trigger ch_toggle` to turn on a heads-up display of your coordinates and the current time
