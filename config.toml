@@ -32,6 +32,9 @@ rssLimit = 32
 		name= 'Map'
 		url = '/map'
 
+[minify]
+  minifyOutput = true
+
 [params]
 	background = '/images/bg.jpg'
 	description = "The Tranquility Minecraft server"
