@@ -61,3 +61,12 @@ This server is for everyone's enjoyment.
 There is no automated system for whitelisting.
 Contact StickFig in the [Discord](discord) for more information.
 Please read the [Code of Conduct](#code-of-conduct) before you apply.
+
+# Server Status and Statistics
+
+You can see information about Tranquility on several server index websites:
+
+- [Minecraft Multiplayer](https://minecraft-mp.com/server-s229241)
+- [Minecraft-Server.net](https://minecraft-server.net/details/tranquility/)
+- [MinecraftIndex.net](https://minecraftindex.net/server/115)
+- [MinecraftServers.org](https://minecraftservers.org/server/559407)
