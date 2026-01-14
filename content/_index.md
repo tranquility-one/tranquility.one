@@ -15,16 +15,11 @@ Tranquility runs the following plugins and data packs:
 - [Bluemap](https://bluemap.bluecolored.de/) gives us a [3D model](https://tranquility.one/3d) of our world, right in the browser!
   It shows claimed areas using [BlueBridge](https://github.com/Mark-225/BlueBridge).
 - [Better Craftables](https://modrinth.com/datapack/better-craftables): extra crafting recipes for quality of life
-- [Burning Flesh](https://modrinth.com/datapack/burning-flesh/version/v1.10.0): fuel your furnace with arrows or rotten flesh
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): type `/trigger ch_toggle` to turn on a heads-up display of your coordinates and the current time
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
   We have channels for online, offline, and off-topic discussion, plus one for screenshots.
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): check out the [world map](https://tranquility.one/map) (which shows claimed areas using [GriefPreventionDynmap](https://github.com/leahshields95/GriefPreventionDynmap))
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
-- [Pillager Tools](https://vanillatweaks.net/picker/datapacks/)
-  - Pillager patrols are disabled
-  - Pillagers still spawn naturally (at night and at their outpost)
-  - Raids can still occur after you defeat an outpost leader
 - SereneMail (custom mailboxes and delivery service from Serenity-MC.org):
   - Create a mailbox by placing a chest on a fencepost
   - Put items in it and type `/mailto <player_name>` to send the items to them
