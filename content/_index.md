@@ -18,15 +18,19 @@ Tranquility runs the following plugins and data packs:
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): type `/trigger ch_toggle` to turn on a heads-up display of your coordinates and the current time
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
   We have channels for online, offline, and off-topic discussion, plus one for screenshots.
+- [Confetti Creepers](https://vanillatweaks.net/picker/datapacks/): creepers explode into colorful confetti particles
 - [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): check out the [world map](https://tranquility.one/map) (which shows claimed areas using [GriefPreventionDynmap](https://github.com/leahshields95/GriefPreventionDynmap))
+- [Geyser](https://geysermc.org/) + [Floodgate](https://geysermc.org/): Bedrock Edition crossplay support — join from consoles, mobile, or Windows 10/11 without a Java account
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
+- [Mini Blocks](https://vanillatweaks.net/picker/datapacks/): mobs occasionally drop decorative miniature block heads
+- [More Effective Tools](https://vanillatweaks.net/picker/datapacks/): tools work on additional block types (e.g. axes on ladders)
 - SereneMail (custom mailboxes and delivery service from Serenity-MC.org):
   - Create a mailbox by placing a chest on a fencepost
   - Put items in it and type `/mailto <player_name>` to send the items to them
   - Hearts above your mailbox mean _you've got mail!_
 - [Sleep-Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-16-1-configurable-messages-and-percentage.60623/): only half the players need to sleep to skip the night
 
-We recommend players use the [Optifine](https://optifine.net/) client mod for best performance.
+We recommend [Fabric](https://fabricmc.net/) + [Sodium](https://modrinth.com/mod/sodium) for best performance (better FPS and lower RAM usage), or [Optifine](https://optifine.net/) as an alternative.
 
 # Code of Conduct
 
