@@ -7,6 +7,16 @@ We started Tranquility after a favorite server, Serenity-MC.org, stopped operati
 We base Tranquility's general feel and our [Code of Conduct](#code-of-conduct) on the Serenity server.
 "Tranquility" made a great name: it has the same meaning as "Serenity", "T" comes right after "S" alphabetically, and [Tranquility Base](https://en.wikipedia.org/wiki/Tranquility_Base) is the first place humans landed when we left earth --- Tranquility is the first place some Serenity players landed when we left that server.
 
+> We recently received a series of messages attempting to purchase our domain name ([tranquility.one](https://tranquility.one)).
+> The most recent message is reproduced below.
+>
+> > Hi there, I am following up on my previous email.
+> > Please could you confirm whether this domain is available for purchase and, if so, what the asking price is?
+> > My client would like to make an opening offer of $2,000 USD.
+> > Kind regards \[REDACTED\] Domain Name Broker \[REDACTED\] Office: \[REDACTED\] Mobile/ WhatsApp: \[REDACTED\]
+> 
+> While Tranquility is not for sale, we are prepared to consider bids in the range of $100,000 for the name, and if any such bids occur we will move deliberately to ensure the community is well-informed before any changes.
+
 Tranquility is a vanilla-like server.
 We use plugins to enhance the community aspects of the game, reduce griefing, and remove annoyances from the vanilla experience.
 Tranquility runs the following plugins and data packs:
