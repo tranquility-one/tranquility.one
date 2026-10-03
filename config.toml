@@ -27,10 +27,6 @@ rssLimit = 32
 		identifier = 'model'
 		name= '3D World'
 		url = '/3d'
-	[[menu.main]]
-		identifier = 'map'
-		name= 'Map'
-		url = '/map'
 
 [minify]
   minifyOutput = true

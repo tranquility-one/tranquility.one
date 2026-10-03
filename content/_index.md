@@ -2,7 +2,7 @@
 
 This is a public, [whitelisted](#whitelisting) Minecraft server.
 We run a single survival world at "hard" difficulty.
-The server is running Minecraft ([Paper](https://papermc.io)) 1.21.1.
+The server is running Minecraft ([Paper](https://papermc.io)) 26.2.
 We started Tranquility after a favorite server, Serenity-MC.org, stopped operating.
 We base Tranquility's general feel and our [Code of Conduct](#code-of-conduct) on the Serenity server.
 "Tranquility" made a great name: it has the same meaning as "Serenity", "T" comes right after "S" alphabetically, and [Tranquility Base](https://en.wikipedia.org/wiki/Tranquility_Base) is the first place humans landed when we left earth --- Tranquility is the first place some Serenity players landed when we left that server.
@@ -29,7 +29,6 @@ Tranquility runs the following plugins and data packs:
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord)!
   We have channels for online, offline, and off-topic discussion, plus one for screenshots.
 - [Confetti Creepers](https://vanillatweaks.net/picker/datapacks/): creepers explode into colorful confetti particles
-- [Dynmap](https://www.spigotmc.org/resources/dynmap.274/): check out the [world map](https://tranquility.one/map) (which shows claimed areas using [GriefPreventionDynmap](https://github.com/leahshields95/GriefPreventionDynmap))
 - [Geyser](https://geysermc.org/) + [Floodgate](https://geysermc.org/): Bedrock Edition crossplay support — join from consoles, mobile, or Windows 10/11 without a Java account
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
 - [Mini Blocks](https://vanillatweaks.net/picker/datapacks/): mobs occasionally drop decorative miniature block heads
