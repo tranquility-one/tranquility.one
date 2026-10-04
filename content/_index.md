@@ -1,7 +1,7 @@
 # Welcome!
 
 This is a public, [whitelisted](#whitelisting) Minecraft server.
-We run a single survival world at "hard" difficulty.
+We run a survival world at "easy" difficulty, plus a "hard" [expedition world](#the-expedition-world) that starts over every four weeks.
 The server is running Minecraft ([Paper](https://papermc.io)) 26.2.
 We started Tranquility after a favorite server, Serenity-MC.org, stopped operating.
 We base Tranquility's general feel and our [Code of Conduct](#code-of-conduct) on the Serenity server.
@@ -33,6 +33,7 @@ Tranquility runs the following plugins and data packs:
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
 - [Mini Blocks](https://vanillatweaks.net/picker/datapacks/): mobs occasionally drop decorative miniature block heads
 - [More Effective Tools](https://vanillatweaks.net/picker/datapacks/): tools work on additional block types (e.g. axes on ladders)
+- [Multiverse](https://mvplugins.org/): runs the [expedition world](#the-expedition-world) and the portals to it
 - SereneMail (custom mailboxes and delivery service from Serenity-MC.org):
   - Create a mailbox by placing a chest on a fencepost
   - Put items in it and type `/mailto <player_name>` to send the items to them
@@ -40,6 +41,39 @@ Tranquility runs the following plugins and data packs:
 - [Sleep-Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-16-1-configurable-messages-and-percentage.60623/): only half the players need to sleep to skip the night
 
 We recommend [Fabric](https://fabricmc.net/) + [Sodium](https://modrinth.com/mod/sodium) for best performance (better FPS and lower RAM usage), or [Optifine](https://optifine.net/) as an alternative.
+
+# The Expedition World
+
+Tranquility's main world is set to "easy" so our youngest players can enjoy it too.
+Spawners and mob farms still work on easy.
+For a real challenge, visit the expedition world: a whole separate planet, with its own Overworld, Nether, and End, set to "hard" and with more monsters than usual.
+Every four weeks it is deleted and replaced by a brand-new world with a new seed, so there are always fresh caves to mine, structures to loot, and an End dragon to fight.
+Nobody has to worry about using up or sharing the rare stuff.
+
+## Getting There and Back
+
+- Step into the bedrock-framed portal just west of spawn.
+- You'll arrive on a platform high above the expedition world; climb down the ladder to the ground.
+- To come home, step back into the bedrock portal on the platform.
+- Your inventory and your ender chest come with you both ways.
+- Nether and End portals you build in the expedition world lead to the expedition Nether and End, not ours.
+
+## Before Each Reset
+
+Resets happen early on a Sunday morning (03:20 Central European Time), every fourth week.
+We post a reminder in the [Discord](discord) the evening before.
+If you're online, the server counts down from 10 minutes, then sends everyone in the expedition world home to spawn.
+
+**Anything left in the expedition world when it resets is gone for good**, including builds, chests, beds, and items on the ground.
+Bring your loot home, or stash it in your ender chest before you leave.
+
+## Rules Out There
+
+- Claims don't work in the expedition world, since it doesn't last.
+  The [Code of Conduct](#code-of-conduct) still applies: don't mess with anyone else's stuff.
+- The arrival platform, its ladder, and the portals rebuild themselves within a few minutes, so please don't bother breaking them.
+- On easy, zombies kill villagers instead of turning them into zombie villagers.
+  If you want to zombify villagers so you can cure them for trade discounts, do it in the expedition world.
 
 # Code of Conduct
 
