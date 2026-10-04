@@ -14,9 +14,9 @@ Tranquility runs the following plugins and data packs:
 - [Armor Statues](https://vanillatweaks.net/picker/datapacks/): [modify the settings and pose of armor stands](https://hermitcraft.fandom.com/wiki/Armor_Statues_Datapack).
 - [Bluemap](https://bluemap.bluecolored.de/) provides a browser-based [3D map](https://tranquility.one/3d), showing claimed areas using [BlueBridge](https://github.com/Mark-225/BlueBridge)
 - [Better Craftables](https://modrinth.com/datapack/better-craftables): extra crafting recipes for quality of life
+- Burning Arrows (our own): arrows burn as furnace fuel, half an item each
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): type `/trigger ch_toggle` to turn on a heads-up display of your coordinates and the current time
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord); we have channels for online, offline, and off-topic discussion, plus one for screenshots
-- [Confetti Creepers](https://vanillatweaks.net/picker/datapacks/): creepers explode into colorful confetti particles
 - [Geyser](https://geysermc.org/) + [Floodgate](https://geysermc.org/): Bedrock Edition crossplay support — join from consoles, mobile, or Windows 10/11 without a Java account
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
 - [Mini Blocks](https://vanillatweaks.net/picker/datapacks/): mobs occasionally drop decorative miniature block heads
@@ -26,7 +26,8 @@ Tranquility runs the following plugins and data packs:
   - Create a mailbox by placing a chest on a fencepost
   - Put items in it and type `/mailto <player_name>` to send the items to them
   - Hearts above your mailbox mean _you've got mail!_
-- [Sleep-Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-16-1-configurable-messages-and-percentage.60623/): only half the players need to sleep to skip the night
+
+Only half the players in a world need to sleep to skip the night.
 
 We recommend [Fabric](https://fabricmc.net/) + [Sodium](https://modrinth.com/mod/sodium) for best performance (better FPS and lower RAM usage), or [Optifine](https://optifine.net/) as an alternative.
 
