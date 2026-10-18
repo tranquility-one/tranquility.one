@@ -2,7 +2,7 @@
 
 Tranquility is a public, whitelisted Minecraft server.
 We run a persistent world at "easy" difficulty, plus a "hard" [expedition world](#the-expedition-world) that resets regularly.
-The server is running Minecraft `26.2`, and restarts briefly for updates every day at `06:30 UTC`.
+The server is running Minecraft: Java Edition `26.3`, and restarts briefly for updates every day at `06:30 UTC`.
 There is no automated system for whitelisting.
 Contact StickFig in the [Discord](discord) for more information.
 Please read the [Code of Conduct](#code-of-conduct) before you apply.
@@ -14,10 +14,8 @@ Tranquility runs the following plugins and data packs:
 - [Armor Statues](https://vanillatweaks.net/picker/datapacks/): [modify the settings and pose of armor stands](https://hermitcraft.fandom.com/wiki/Armor_Statues_Datapack).
 - [Bluemap](https://bluemap.bluecolored.de/) provides a browser-based [3D map](https://tranquility.one/3d), showing claimed areas using [BlueBridge](https://github.com/Mark-225/BlueBridge)
 - [Better Craftables](https://modrinth.com/datapack/better-craftables): extra crafting recipes for quality of life
-- Burning Arrows (our own): arrows burn as furnace fuel, half an item each
 - [Coordinates HUD](https://vanillatweaks.net/picker/datapacks/): type `/trigger ch_toggle` to turn on a heads-up display of your coordinates and the current time
 - [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/): join us in the [Discord](https://tranquility.one/discord); we have channels for online, offline, and off-topic discussion, plus one for screenshots
-- [Geyser](https://geysermc.org/) + [Floodgate](https://geysermc.org/): Bedrock Edition crossplay support — join from consoles, mobile, or Windows 10/11 without a Java account
 - [GriefPrevention](https://github.com/TechFortress/GriefPrevention/): claim an area [with a golden shovel](https://www.youtube.com/watch?v=VDsjXB-BaE0) to protect your things from other players
 - [Mini Blocks](https://vanillatweaks.net/picker/datapacks/): mobs occasionally drop decorative miniature block heads
 - [More Effective Tools](https://vanillatweaks.net/picker/datapacks/): tools work on additional block types (e.g. axes on ladders)
